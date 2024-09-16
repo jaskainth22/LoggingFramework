@@ -1,0 +1,14 @@
+/Users/jaskarankainth/LLD/LoggingFramework/obj/Debug/net8.0/LoggingFramework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaskarankainth/LLD/LoggingFramework/obj/Debug/net8.0/LoggingFramework.AssemblyInfoInputs.cache
+/Users/jaskarankainth/LLD/LoggingFramework/obj/Debug/net8.0/LoggingFramework.AssemblyInfo.cs
+/Users/jaskarankainth/LLD/LoggingFramework/obj/Debug/net8.0/LoggingFramework.csproj.CoreCompileInputs.cache
+/Users/jaskarankainth/LLD/LoggingFramework/bin/Debug/net8.0/LoggingFramework
+/Users/jaskarankainth/LLD/LoggingFramework/bin/Debug/net8.0/LoggingFramework.deps.json
+/Users/jaskarankainth/LLD/LoggingFramework/bin/Debug/net8.0/LoggingFramework.runtimeconfig.json
+/Users/jaskarankainth/LLD/LoggingFramework/bin/Debug/net8.0/LoggingFramework.dll
+/Users/jaskarankainth/LLD/LoggingFramework/bin/Debug/net8.0/LoggingFramework.pdb
+/Users/jaskarankainth/LLD/LoggingFramework/obj/Debug/net8.0/LoggingFramework.dll
+/Users/jaskarankainth/LLD/LoggingFramework/obj/Debug/net8.0/refint/LoggingFramework.dll
+/Users/jaskarankainth/LLD/LoggingFramework/obj/Debug/net8.0/LoggingFramework.pdb
+/Users/jaskarankainth/LLD/LoggingFramework/obj/Debug/net8.0/LoggingFramework.genruntimeconfig.cache
+/Users/jaskarankainth/LLD/LoggingFramework/obj/Debug/net8.0/ref/LoggingFramework.dll
